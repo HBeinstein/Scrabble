@@ -1,14 +1,14 @@
 using System;
 using System.Collections.Generic;
-using ItemNamespace;
+using Scrabble.Models;
 
-namespace ProjectName
+namespace Scrabble.Models
 {
-  public class ProjectName
+  public class Scrabble
   {
     public static void Main()
     {
-      // ui logic here
+
     }
   }
 }
